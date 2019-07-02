@@ -1,4 +1,4 @@
-# Angular Developer Roadmap
+# Angular Dev Roadmap
 
 This project aims to collect the most common / important concepts one should learn to become an Angular developer.
 <br>
